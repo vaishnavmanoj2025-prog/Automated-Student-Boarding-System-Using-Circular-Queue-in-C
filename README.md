@@ -28,6 +28,6 @@ CAMPUS SHUTTLE SYSTEM
 2.) Board Bus
 3.) Display Queue
 4.) Exit
-🎯 Objective
+Objective:
 
 To demonstrate real-world use of queue data structures in managing transportation systems efficiently.
